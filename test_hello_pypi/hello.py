@@ -1,2 +1,2 @@
 def print_hello():
-    print('Hello')z
+    print('Hello')

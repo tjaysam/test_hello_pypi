@@ -1,0 +1,8 @@
+README.md
+setup.py
+test_hello_pypi/__init__.py
+test_hello_pypi/hello.py
+test_hello_pypi.egg-info/PKG-INFO
+test_hello_pypi.egg-info/SOURCES.txt
+test_hello_pypi.egg-info/dependency_links.txt
+test_hello_pypi.egg-info/top_level.txt
